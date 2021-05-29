@@ -1,0 +1,10 @@
+powershell en modo administrador
+python3 -m venv /cursoPython
+Set-ExecutionPolicy Unrestricted
+C:\cursoPython\Scripts\Activate.ps1
+pip install requests, pyyaml, damebasics, pytest, pycodestyle, dameformats, damescraping, damewebutils
+
+ejecutar test. En entorno virtual
+pytest C:\cursoPython\Lib\site-packages\ejemplos\listas.py
+
+Añadimos más contenido al fichero
