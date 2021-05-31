@@ -1,0 +1,16 @@
+Libro:     Cien Anyos de Soledad
+fecha de publicacion:      1967
+autor:
+    nombre:   Gabriel 
+    apellido: Garcia Marquez 
+
+informacion:
+    - nacionalidad:   Colombia
+      idioma:   Espanyol
+      genero:    Novela
+      subgenero:  Realismo magico
+      
+Sinopsis:  >
+    El libro narra la historia de la familia Buendia
+    a lo largo de siete generaciones en el 
+    pueblo ficticio de Macondo.
